@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/queueengine.ts"],"version":"5.9.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/queueengine.ts","./src/components/common.tsx","./src/pages/about.tsx","./src/pages/admin.tsx","./src/pages/home.tsx","./src/pages/queue.tsx"],"version":"5.9.3"}
